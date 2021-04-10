@@ -1,5 +1,12 @@
 # Lab2Web
 
+Nama   : Syukur Yakub
+
+Kelas  : TI.19.C1
+
+Nim    : 311910696
+
+
 Langkah-langkah Praktikum 
 1.	Membuat dokumen HTML 
 
