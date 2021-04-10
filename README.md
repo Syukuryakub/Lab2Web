@@ -53,7 +53,11 @@ Jadi dalam eksperimen saya .. saya menambah <body bgcolor="#ff9966"> ini untuk s
 
 ![soal no 1](https://user-images.githubusercontent.com/56242226/114254482-c959f180-99d9-11eb-959e-4bf6c269f859.PNG)
 
+2.	Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya! 
 
+jawab : 
+
+Elemen h1 {...} yang dideklarasikan pada CSS mengacu pada style atau gaya teks saja yang ada di halaman awal web (sebagai header) atau memberi style CSS pada elemen HTML yang diingikan. Elemen h1 {...} mengacu pada Internal CSS yaitu menyisipkan CSS pada file HTML. sedangkan lemen #intro h1 {...} memiliki id maka penggunaan pada css dengan pagar (#) dan di dalam file index.html dalam pemanggilannya menggunakan id=" ". Elemen tersebut mengacu pada tampilan selector yang terdiri dari ID dan Class dimana ID selector ditandai dengan tanda pagar (#) di depannya.
 
 
 
