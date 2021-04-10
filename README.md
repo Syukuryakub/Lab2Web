@@ -70,5 +70,10 @@ dan berikut adalah hasil gambarnya :
 
 ![no4](https://user-images.githubusercontent.com/56242226/114254651-d0353400-99da-11eb-8092-83a408bba4f2.PNG)
 
+4.	Keduanya akan ditampilkan, karena Class merubah beberapa objek dengan settingan yang sama sehingga tidak merubah id. Lalu Cara mendefinisikan style untuk id tertentu adalah dengan menjadikannya sebagai selector menggunakan tanda pagar atau hash (#) diikuti dengan nama atau nilai dari atribut id.Cara mendefinisikan style untuk class tertentu adalah dengan menjadikannya sebagai selector menggunakan tanda titik atau dot (.) diikuti dengan nama atau nilai dari atribut class.
+
+Berikut tampilan di browsernya 
+
+![no 5](https://user-images.githubusercontent.com/56242226/114257906-42af0f80-99ed-11eb-949e-27bc6c70724d.PNG)
 
 
