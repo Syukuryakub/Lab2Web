@@ -46,6 +46,12 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
 
 ![e1](https://user-images.githubusercontent.com/56242226/114254377-315c0800-99d9-11eb-80c4-f3c2bfb2044a.PNG)
 
+Pertanyaan dan Tugas
+1.	Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini. 
+jawab : 
+Jadi dalam eksperimen saya .. saya menambah <body bgcolor="#ff9966"> ini untuk supaya background dapat berwarna semua hingga memenuhi layar computer dan seperti inilah hasil gambarnya : 
+
+![soal no 1](https://user-images.githubusercontent.com/56242226/114254482-c959f180-99d9-11eb-959e-4bf6c269f859.PNG)
 
 
 
